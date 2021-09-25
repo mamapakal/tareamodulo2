@@ -1,10 +1,8 @@
 body{ background-color: seashell;
+font-size: medium;}
 
-  }
-  p{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-font-size: medium;
-font-style: oblique;
-}
+p {font-family: 'Stick No Bills', sans-serif;
+font-size: x-large;}
 img { 
     width: 239px;
     height: 318px;
@@ -12,5 +10,12 @@ img {
 
 float:right}
 
-h1 { background-color: peru;
-text-orientation: upright;}
+h1 { background: #b4ddb4;
+  background: -moz-linear-gradient(left,  #b4ddb4 0%, #002400 25%, #52b152 33%, #002400 35%, #7f70aa 59%, #7f70aa 59%, #008a00 67%, #7f70aa 74%, #005700 83%, #002400 94%, #002400 100%);
+  background: -webkit-linear-gradient(left,  #b4ddb4 0%,#002400 25%,#52b152 33%,#002400 35%,#7f70aa 59%,#7f70aa 59%,#008a00 67%,#7f70aa 74%,#005700 83%,#002400 94%,#002400 100%);
+  background: linear-gradient(to right,  #b4ddb4 0%,#002400 25%,#52b152 33%,#002400 35%,#7f70aa 59%,#7f70aa 59%,#008a00 67%,#7f70aa 74%,#005700 83%,#002400 94%,#002400 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=1 );
+  }
+
+li{ font-family: 'Stick No Bills', sans-serif;
+font-size: x-large;}
